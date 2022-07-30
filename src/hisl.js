@@ -1,3 +1,3 @@
 {
-	"name": "HISL Bot Multi Device "
+	"name": "sithija Bot Multi Device "
 }
